@@ -1,3 +1,10 @@
+.frame{
+    display: flex;
+    width: 100%;
+}
+.item{
+    width: calc(100% / 4);
+}
 .hidden_box {
     margin: 2em 0;/*前後の余白*/
     padding: 0;
